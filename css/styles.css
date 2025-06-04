@@ -18,6 +18,10 @@ h1{
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
+.red-text {
+  color: red;
+}
+
 .resume-header {
     background-color: #025940;
 	color: white
@@ -29,7 +33,13 @@ h1{
 
 .resume-aside {
 	background-color: #04BF8A;
+}.custom-title {
+  color: #EE7623;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
 }
+
 
 /* Styles for lists in the document */
 
