@@ -33,11 +33,6 @@ h1{
 
 .resume-aside {
 	background-color: #04BF8A;
-}.custom-title {
-  color: #EE7623;
-  font-size: 1.5rem;
-  font-weight: bold;
-  margin-top: 0.5rem;
 }
 
 
@@ -64,4 +59,14 @@ h1{
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+/*Styles added by student */
+
+.custom-title {
+  color: #EE7623;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+font-family: 'Lato', sans-serif; 
 }
